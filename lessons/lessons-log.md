@@ -438,7 +438,7 @@ Data: VP by gen us 20,27,27,36,37,44,50,62 vs blue 23,25,34,40,41,48,55,65. Step
 - Tooling notes: `wait` returns immediately while a draft pick is pending (open selection); use a shell poll on `turn --compact` for the next pack. `waitturn` returns on ANY pending input. `pick` with no arguments buys no cards. Plants -> greenery is `greenery <space>`; `space` doesn't answer that prompt.
 - Cost: session total $113.43 (main $112.54, subagents $0.89) at cost.js; game 4 alone = ~$33.4 main + ~$0.19 agents (Scout+Strategist runs ~$0.01-0.03 each). Avg main context 390k per call.
 
-## 2026-11-22 game p36b8cc08017d (Splice, 4P, 8 gens) — finished 4th, 54 VP vs 78/76/73
+## 2026-11-22 game "Residual Oxygen Drift" (Sonnet seat, Splice, 4P, 8 gens) — finished 4th, 54 VP vs 78/76/73
 - Bought Heather/Grass in gen 2 with temp requirements (-14/-16) at temp -30: dead cards for 4 gens. Check global requirements vs current temp/O2 before buying.
 - Corp Splice + Biosphere Support left MC production ~0 all game; income stayed ~+0 vs rivals +16-23. Don't buy only plant/microbe cards without an MC engine; economy phase needs MC prod.
 - Game ended gen 8 (earlier than 9-10 forecast for 4P): rivals' TR/cards-VP dump won. Build MC production in gens 1-3 or lose on VP.
